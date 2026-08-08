@@ -131,6 +131,10 @@
     "division_id": "ocd-division/country:us/territory:vi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:59:46Z"
+    "logs_latest_update": "2026-07-21T18:59:46Z",
+    "text_extraction_unavailable": {
+      "reason": "download_failed",
+      "checked_at": "2026-08-08T15:50:27.311677Z"
+    }
   }
 }
