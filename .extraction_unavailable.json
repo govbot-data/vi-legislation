@@ -1,0 +1,52 @@
+[
+  {
+    "bill_id": "36-0148",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0148/metadata.json"
+  },
+  {
+    "bill_id": "36-0013",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0013/metadata.json"
+  },
+  {
+    "bill_id": "36-0028",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0028/metadata.json"
+  },
+  {
+    "bill_id": "36-0025",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0025/metadata.json"
+  },
+  {
+    "bill_id": "36-0092",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0092/metadata.json"
+  },
+  {
+    "bill_id": "36-0011",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0011/metadata.json"
+  },
+  {
+    "bill_id": "36-0043",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0043/metadata.json"
+  },
+  {
+    "bill_id": "36-0147",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0147/metadata.json"
+  },
+  {
+    "bill_id": "36-0098",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0098/metadata.json"
+  },
+  {
+    "bill_id": "36-0068",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0068/metadata.json"
+  }
+]
