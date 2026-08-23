@@ -1,52 +1,147 @@
 [
   {
-    "bill_id": "36-0148",
+    "bill_id": "36-0083",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0148/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0083/metadata.json"
   },
   {
-    "bill_id": "36-0013",
+    "bill_id": "36-0081",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0013/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0081/metadata.json"
   },
   {
-    "bill_id": "36-0028",
+    "bill_id": "36-0031",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0028/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0031/metadata.json"
   },
   {
-    "bill_id": "36-0025",
+    "bill_id": "36-0007",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0025/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0007/metadata.json"
   },
   {
-    "bill_id": "36-0092",
+    "bill_id": "36-0062",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0092/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0062/metadata.json"
   },
   {
-    "bill_id": "36-0011",
+    "bill_id": "36-0073",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0011/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0073/metadata.json"
   },
   {
-    "bill_id": "36-0043",
+    "bill_id": "36-0115",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0043/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0115/metadata.json"
   },
   {
-    "bill_id": "36-0147",
+    "bill_id": "36-0120",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0147/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0120/metadata.json"
   },
   {
-    "bill_id": "36-0098",
+    "bill_id": "36-0044",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0098/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0044/metadata.json"
   },
   {
-    "bill_id": "36-0068",
+    "bill_id": "36-0097",
     "reason": "download_failed",
-    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0068/metadata.json"
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0097/metadata.json"
+  },
+  {
+    "bill_id": "36-0022",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0022/metadata.json"
+  },
+  {
+    "bill_id": "36-0065",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0065/metadata.json"
+  },
+  {
+    "bill_id": "36-0030",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0030/metadata.json"
+  },
+  {
+    "bill_id": "36-0091",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0091/metadata.json"
+  },
+  {
+    "bill_id": "36-0016",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0016/metadata.json"
+  },
+  {
+    "bill_id": "36-0071",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0071/metadata.json"
+  },
+  {
+    "bill_id": "36-0057",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0057/metadata.json"
+  },
+  {
+    "bill_id": "36-0093",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0093/metadata.json"
+  },
+  {
+    "bill_id": "36-0082",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0082/metadata.json"
+  },
+  {
+    "bill_id": "36-0015",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0015/metadata.json"
+  },
+  {
+    "bill_id": "36-0102",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0102/metadata.json"
+  },
+  {
+    "bill_id": "36-0075",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0075/metadata.json"
+  },
+  {
+    "bill_id": "36-0135",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0135/metadata.json"
+  },
+  {
+    "bill_id": "36-0064",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0064/metadata.json"
+  },
+  {
+    "bill_id": "36-0100",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0100/metadata.json"
+  },
+  {
+    "bill_id": "36-0146",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0146/metadata.json"
+  },
+  {
+    "bill_id": "36-0055",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0055/metadata.json"
+  },
+  {
+    "bill_id": "36-0117",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0117/metadata.json"
+  },
+  {
+    "bill_id": "36-0018",
+    "reason": "download_failed",
+    "metadata_file": "/home/runner/work/vi-legislation/vi-legislation/country:us/state:vi/sessions/36/bills/36-0018/metadata.json"
   }
 ]
